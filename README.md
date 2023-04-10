@@ -22,8 +22,10 @@ In the course of the analysis, the following steps were taken:
 
 # Insights 
 
+## Null Values:
 The data collated properly had no missing values:
 
+## Average() Function:
 The approximate average unit price and quantity are #20,000 and 6 units respectively making our total sales/revenue to be around #120,000 without incurring tax. Note: The tax on the supermarket is about 4.5% of the total sales. After accounting for tax the average total value is found to be around #116,000. Knowing that the average cost of goods sold is approximately #110,700 and the gross income is approximately #5,537 it informs us that the average sales made within the timeframe are about #115,000
 
 The average rating is 6.97 indicating that the supermarket is doing slightly better above-average implying that more work needs to be done to improve the companies services and products available to customers
