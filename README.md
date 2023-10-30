@@ -95,4 +95,4 @@ c) Comparison of other features to an important column 'RATING' which was not gi
 
 # Executive Summary.
 
-In this project, we were able to perform descriptive anaalysis using various pandas funcions that help us analyze data including the Numpy, Matplotlib, Seaborn etc. Going through the data above, you could see there are other ways the task could be explored and accomplished on pandas. This is one good factor about using pandas because it aided insight to understand and determine company growth. 
+In this project, we were able to perform descriptive analysis using various pandas functions that help us analyze data including the Numpy, Matplotlib, Seaborn etc. Going through the data above, you could see there are other ways the task could be explored and accomplished on pandas. This is one good factor about using pandas because it aided insight to understand and determine company growth. 
